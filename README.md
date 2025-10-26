@@ -1,6 +1,6 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+# Rocket Controler
 
-# Boas práticas em aplicações Angular com Componentização, Pipes e Diretivas
+<img src="./public/curse.png" />
 
 ## Tecnologias
 
