@@ -1,11 +1,29 @@
 # Rocket Controler
 
+O projeto **Rocket Controler** é uma aplicação desktop de gestão de cursos e alunos, listagem, adicionar, deletar, etidar e preview de cursos e alunos, aplicando boas práticas em aplicações Angular com Componentização, Pipes e Diretivas.
+
+---
+
 <img src="./public/curse.png" />
 
-## Tecnologias
+---
 
-- [Angular](https://angular.io/)
-- [Node](https://nodejs.org/en/)
+<img src="./public/students.png" />
+
+## Tecnologias usadas
+
+<div align="center">
+
+| Technology     | Descrição                                                     | Icon                                                                                       |
+| -------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Angular**    | Framework robusto para construção de aplicações web modernas. | ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)          |
+| **TypeScript** | Superset tipado do JavaScript que facilita a escalabilidade.  | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) |
+| **Bootstrap**  | Framework CSS para criação rápida de interfaces responsivas.  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)    |
+| **CSS3**       | Linguagem de estilo para design e layout de páginas web.      | ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)                   |
+
+</div>
+
+---
 
 ## Links úteis
 
@@ -39,3 +57,5 @@
     npm start
     ```
 - Abra o seu browser na seguinte URL: http://localhost:4200
+
+_Esse projeto foi desenvolvido com ❤ pelo [João Tambue](https://github.com/joao-tambue)_
